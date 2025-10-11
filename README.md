@@ -1,5 +1,3 @@
-# we're all gonna die
-
 # Todo
 * Throttle buttons
 * Throttle
@@ -29,5 +27,4 @@
 - Persist over restarts
 - Replace HUD text with cuboids?
 - Caching
-
 - ufos that can abduct people
